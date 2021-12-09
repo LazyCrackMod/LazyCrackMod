@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=40&center=true&vCenter=true&width=1000&height=55&lines=Welcome+to+my+Github!;Thank+you+for+visiting+and+follow+me+%F0%9F%93%B0;Remember+to+rate+me+a+star+%3C3)](https://git.io/typing-svg)
 <p align="center">
-	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=LazyCrackMod.LazyCrackMod">
 <p>
 
 ****
